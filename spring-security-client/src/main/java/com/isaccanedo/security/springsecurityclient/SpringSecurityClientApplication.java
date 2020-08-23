@@ -1,4 +1,4 @@
-package com.techprimers.security.springsecurityclient;
+package com.isaccanedo.security.springsecurityclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
